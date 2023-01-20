@@ -1,14 +1,17 @@
 h1 {
     background-color: aqua;
     color: black;
+    margin: 5%;
 }
 
 h2 {
     background-color: black;
     color: white;
+    margin: 3%;
 }
 
 h3 {
     background-color: violet;
     color: black;
+    margin: 1%;
 }
